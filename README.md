@@ -38,7 +38,7 @@ Total Pages visited: 100
 
 ---
 
-### Pro-Tip: Project Structure Section
+### Project Structure Section
 
 | Class | Responsibility |
 | --- | --- |
