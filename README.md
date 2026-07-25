@@ -1,6 +1,3 @@
-Here is a refreshed, accurate `README.md` updated to match all your current Java source files, project structure, and build configuration (`jsoup-1.22.2.jar`):
-
----
 
 # WebCrawlerCoreJava
 
